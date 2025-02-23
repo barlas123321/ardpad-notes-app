@@ -1,0 +1,1 @@
+<i> text editor just open the exe file and it will run </i>

@@ -1,0 +1,16 @@
+C:\Users\Barlas\source\repos\ardpad\bin\Debug\net8.0-windows\ardpad.exe
+C:\Users\Barlas\source\repos\ardpad\bin\Debug\net8.0-windows\ardpad.deps.json
+C:\Users\Barlas\source\repos\ardpad\bin\Debug\net8.0-windows\ardpad.runtimeconfig.json
+C:\Users\Barlas\source\repos\ardpad\bin\Debug\net8.0-windows\ardpad.dll
+C:\Users\Barlas\source\repos\ardpad\bin\Debug\net8.0-windows\ardpad.pdb
+C:\Users\Barlas\source\repos\ardpad\obj\Debug\net8.0-windows\ardpad.Form1.resources
+C:\Users\Barlas\source\repos\ardpad\obj\Debug\net8.0-windows\ardpad.csproj.GenerateResource.cache
+C:\Users\Barlas\source\repos\ardpad\obj\Debug\net8.0-windows\ardpad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barlas\source\repos\ardpad\obj\Debug\net8.0-windows\ardpad.AssemblyInfoInputs.cache
+C:\Users\Barlas\source\repos\ardpad\obj\Debug\net8.0-windows\ardpad.AssemblyInfo.cs
+C:\Users\Barlas\source\repos\ardpad\obj\Debug\net8.0-windows\ardpad.csproj.CoreCompileInputs.cache
+C:\Users\Barlas\source\repos\ardpad\obj\Debug\net8.0-windows\ardpad.dll
+C:\Users\Barlas\source\repos\ardpad\obj\Debug\net8.0-windows\refint\ardpad.dll
+C:\Users\Barlas\source\repos\ardpad\obj\Debug\net8.0-windows\ardpad.pdb
+C:\Users\Barlas\source\repos\ardpad\obj\Debug\net8.0-windows\ardpad.genruntimeconfig.cache
+C:\Users\Barlas\source\repos\ardpad\obj\Debug\net8.0-windows\ref\ardpad.dll
